@@ -8,7 +8,7 @@ public class Demo
 	@Test
 	public void run()
 	{
-		System.out.println("project demo");
+		//System.out.println("project demo");
 		Reporter.log("project demo2");
 	}
 
